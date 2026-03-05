@@ -17,6 +17,12 @@ Original TradingView Pine Script by **[@notprofessorgreen](https://twitter.com/n
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3astbeast/Session-Opening-Bar-Range/refs/heads/main/MNQ_5Minute_20260305_141420.png" width="1000" alt="RedTail Toolbar Screenshot"/>
+</p>
+
+---
+
 ## Overview
 
 Session Opening Bar Range captures the high, low, and midpoint of the first bar of a trading session at a configurable timeframe (e.g., the 5-minute opening bar), then draws those levels across the rest of the session. On top of the core OR zone, it can project statistical levels derived from historical OR ranges, range-multiplied extension levels, and fixed-increment rotation levels — giving you a complete opening range framework from a single indicator.

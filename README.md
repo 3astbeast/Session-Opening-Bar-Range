@@ -9,12 +9,6 @@
   Captures the first bar's high/low/mid of a configurable session, then projects those levels forward with statistical extensions, range extensions, and OR rotation levels.
 </p>
 
-<p align="center">
-  <a href="https://buymeacoffee.com/dmwyzlxstj">
-    <img src="https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
-  </a>
-</p>
-
 ---
 
 ## Credit

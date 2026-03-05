@@ -85,7 +85,7 @@ namespace NinjaTrader.NinjaScript.Indicators
 		{
 			if (State == State.SetDefaults)
 			{
-				Description = @"Session Opening Bar Range. Original Pine Script by @notprofessorgreen. NinjaTrader 8 conversion by @_hawkeye_13 (RedTail Indicators).";
+				Description = @"Session Opening Bar Range. Original Pine Script by @notprofgreen. NinjaTrader 8 conversion by @_hawkeye_13 (RedTail Indicators).";
 				Name = "SessionOpeningBarRange";
 				Calculate = Calculate.OnBarClose;
 				IsOverlay = true;
